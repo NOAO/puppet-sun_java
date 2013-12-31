@@ -1,4 +1,4 @@
-class sun_java::1635 {
+class sun_java::1645 {
   include sun_java::params
 
   $package_list = [
